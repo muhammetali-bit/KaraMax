@@ -1,0 +1,3 @@
+English:Hello, I'm Ali, my TikTok username is WebCom. This project is an application with an RF ID reader that registers and unlocks using cards similar to bus passes. The purpose of the application is to store and lock hidden files, videos, photos, notes, and other confidential information. Have a good day. WebCom
+Merhaba, ben Ali, TikTok kullanıcı adım WebCom. Bu proje, otobüs kartlarına benzer kartlar kullanarak kayıt yapan ve kilidi açan bir RF ID okuyucusu içeren bir uygulamadır. Uygulamanın amacı, gizli dosyaları, videoları, fotoğrafları, notları ve diğer gizli bilgileri saklamak ve kilitlemektir. İyi günler. WebCom
+ 
